@@ -92,3 +92,12 @@ Ensure you have Python installed on your system. You can download it from [pytho
 ### Date/Time Functions
 
 - Utilizes date and time functions to keep track of transactions and account activities.
+
+## Screenshots
+![s_shot](screenshots/s1.png)
+![s_shot](screenshots/s1.png)
+![s_shot](screenshots/s1.png)
+![s_shot](screenshots/s1.png)
+![s_shot](screenshots/s1.png)
+![s_shot](screenshots/s1.png)
+![s_shot](screenshots/s1.png)
