@@ -95,9 +95,9 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 ## Screenshots
 ![s_shot](screenshots/s1.png)
-![s_shot](screenshots/s1.png)
-![s_shot](screenshots/s1.png)
-![s_shot](screenshots/s1.png)
-![s_shot](screenshots/s1.png)
-![s_shot](screenshots/s1.png)
-![s_shot](screenshots/s1.png)
+![s_shot](screenshots/s2.png)
+![s_shot](screenshots/s3.png)
+![s_shot](screenshots/s4.png)
+![s_shot](screenshots/s5.png)
+![s_shot](screenshots/s6.png)
+![s_shot](screenshots/s7.png)
